@@ -6,6 +6,7 @@ const PRECACHE_URLS = [
   'index.html',
   './', // Alias for index.html
   'style.css',
+  'main.js',
   'worker.js'
 ];
 
